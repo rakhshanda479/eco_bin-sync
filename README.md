@@ -13,7 +13,7 @@ The project follows the 'Agile (Scrum) methodology' with structured documentatio
 # Contents
 - Documentation – Detailed reports on requirements, WBS, risk management, and charter.  
 - Trello Board – Task tracking and workflow visualization.  
-- Jira Setup** – Sprint planning, backlog, and issue tracking.  
+- Jira Setup – Sprint planning, backlog, and issue tracking.  
 - Budget & Cost Sheets (Excel) – Time-phased budget, resources, and cost summary under PKR 2 million.  
 
 ---
@@ -33,7 +33,8 @@ The project was budgeted under PKR 2 million, covering:
 - Contingency Reserves  
 ---
 
-# Project Duration
+# Project Duration 
+- 6 months
 - Start Date: 1 July 2025  
 - End Date: 31 December 2025  
 - Project Manager: Rakhshanda  
@@ -50,4 +51,4 @@ The project was budgeted under PKR 2 million, covering:
 - Well-defined Work Breakdown Structure (WBS)  
 - Risk Management Plan  
 - Cost & Budgeting Sheets  
-- Agile-based planning with Trello & Jira  
+- Agile-based planning with Trello & Jira
